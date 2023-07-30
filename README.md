@@ -8,5 +8,5 @@ Simple Single Neuron Neural Network
 
 ### Reference
 * [Regression from Scratch Example](https://www.kaggle.com/code/aakashns/pytorch-basics-linear-regression-from-scratch)
-* [Gradient descent in Python](https://www.geeksforgeeks.org/how-to-implement-a-gradient-descent-in-python-to-find-a-local-minimum)
+* [Gradient Descent in Python](https://www.geeksforgeeks.org/how-to-implement-a-gradient-descent-in-python-to-find-a-local-minimum)
 * [Gradient Derivative Calculation](https://towardsdatascience.com/gradient-descent-from-scratch-e8b75fa986cc)
